@@ -16,7 +16,8 @@ Usando una expresión lambda
 En un comentario al final del código, escribí con tus palabras cuál de las dos formas te resulta más clara y por qué.
 
 💡 Tip: para cambiar el texto de una etiqueta en tiempo de ejecución usá el método setText("nuevo texto") sobre el objeto JLabel.
-<img width="487" height="370" alt="Captura de pantalla 2026-09-23 012822" src="https://github.com/user-attachments/assets/c2929f1e-f00f-48df-a50c-5db7c2c09728" />
 
-<img width="486" height="372" alt="image" src="https://github.com/user-attachments/assets/9dc6f24d-458e-48d5-b3f6-9db70e306597" />
+<img width="300" height="370" alt="Captura de pantalla 2026-09-23 012822" src="https://github.com/user-attachments/assets/c2929f1e-f00f-48df-a50c-5db7c2c09728" />
+
+<img width="300" height="372" alt="image" src="https://github.com/user-attachments/assets/9dc6f24d-458e-48d5-b3f6-9db70e306597" />
 
